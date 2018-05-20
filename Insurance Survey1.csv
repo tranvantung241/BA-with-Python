@@ -1,0 +1,25 @@
+Age,Gender,Education,Marital Status,Years Employed,Satisfaction,Premium/Deductible
+36,2,Some college,Divorced,4,4,N
+55,2,Some college,Divorced,2,1,N
+61,1,Graduate degree,Widowed,26,3,N
+65,2,Some college,Married,9,4,N
+53,2,Graduate degree,Married,6,4,N
+50,2,Graduate degree,Married,10,5,N
+28,2,College graduate,Married,4,5,N
+62,2,College graduate,Divorced,9,3,N
+48,1,Graduate degree,Married,6,5,N
+31,1,Graduate degree,Married,1,5,N
+57,2,College graduate,Married,4,5,N
+44,1,College graduate,Married,2,3,N
+38,1,Some college,Married,3,2,N
+27,1,Some college,Married,2,3,N
+56,1,Graduate degree,Married,4,4,Y
+43,2,College graduate,Married,5,3,Y
+45,1,College graduate,Married,15,3,Y
+42,2,College graduate,Married,12,3,Y
+29,1,Graduate degree,Single,10,5,N
+28,2,Some college,Married,3,4,Y
+36,1,Some college,Divorced,15,4,Y
+49,2,Graduate degree,Married,2,5,N
+46,2,College graduate,Divorced,20,4,N
+52,2,College graduate,Married,18,2,N
